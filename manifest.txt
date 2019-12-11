@@ -1,0 +1,3 @@
+Main-Class: SVM
+Class-Path: ./lib/jar/weka.jar
+
